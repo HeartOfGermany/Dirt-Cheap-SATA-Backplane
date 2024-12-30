@@ -1,5 +1,16 @@
 # Dirt-Cheap-SATA-Backplane
-This repo is intended to share plans for a super cheap backplane. It is using KiCad and it fits the 100x100mm default of JLCPCB
+
+## Front side (left/first) and back side
+
+<picture>
+  <img width="350px" alt="Front side of the SATA Backplane" src="https://github.com/HeartOfGermany/Dirt-Cheap-SATA-Backplane/blob/main/front_side.png">
+</picture>
+<picture>
+  <img width="350px" alt="Back side of the SATA Backplane" src="https://github.com/HeartOfGermany/Dirt-Cheap-SATA-Backplane/blob/main/back_side.png">
+</picture>
+
+
+This repo is intended to share plans for a super cheap DIY backplane. It is using KiCad and it fits the 100x100mm default of JLCPCB
 
 Example: 100x100mm PCB x10pcs costs 15€ delivered to europe as the time of writing this. So 1 Backplane PCB costs just 1.50€ plus components. It uses 1.6mm 2 layer FR4.
 
